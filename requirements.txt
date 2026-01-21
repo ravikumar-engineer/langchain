@@ -1,0 +1,18 @@
+langchain
+ipykernel
+
+# Environment variable management
+python-dotenv
+
+# Document loaders and data ingestion
+langchain_community
+pypdf
+pymupdf
+bs4
+lxml
+wikipedia
+arxiv
+
+# Hugging Face Embeddings
+sentence-transformers
+langchain-huggingface
